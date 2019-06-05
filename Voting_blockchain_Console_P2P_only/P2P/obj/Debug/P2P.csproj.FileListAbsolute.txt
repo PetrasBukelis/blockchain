@@ -4,3 +4,10 @@ c:\users\vaidotas\documents\visual studio 2017\Projects\Voting_blockchain\P2P\bi
 c:\users\vaidotas\documents\visual studio 2017\Projects\Voting_blockchain\P2P\bin\Debug\P2P.pdb
 c:\users\vaidotas\documents\visual studio 2017\Projects\Voting_blockchain\P2P\obj\Debug\P2P.exe
 c:\users\vaidotas\documents\visual studio 2017\Projects\Voting_blockchain\P2P\obj\Debug\P2P.pdb
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain_Console_P2P_only\P2P\bin\Debug\P2P.exe.config
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain_Console_P2P_only\P2P\bin\Debug\P2P.exe
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain_Console_P2P_only\P2P\bin\Debug\P2P.pdb
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain_Console_P2P_only\P2P\obj\Debug\P2P.csprojAssemblyReference.cache
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain_Console_P2P_only\P2P\obj\Debug\P2P.csproj.CoreCompileInputs.cache
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain_Console_P2P_only\P2P\obj\Debug\P2P.exe
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain_Console_P2P_only\P2P\obj\Debug\P2P.pdb
