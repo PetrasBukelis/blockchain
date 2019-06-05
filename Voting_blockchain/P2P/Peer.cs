@@ -11,6 +11,12 @@ namespace P2P
 {
     public class Peer
     {
+        List<Candidate> candi = new List<Candidate>()
+        {
+            new Candidate("1", "Simonyte", "0"),
+            new Candidate("2", "Nauseda", "0"),
+            new Candidate("3", "Skvernelis", "0")
+        };
         private readonly AutoResetEvent _stopFlag = new AutoResetEvent(false);
 
         public IVoting Channel;
@@ -53,9 +59,12 @@ namespace P2P
             Console.WriteLine("Setting up, please wait.");
             StartService();
             Console.WriteLine("Setting up done!");
-            Console.WriteLine("1. Simonyte");
-            Console.WriteLine("2. Nauseda");
-            Console.WriteLine("3. Skvernelis");
+            Console.WriteLine("");
+            Console.WriteLine("---WRITE NUMBER---");
+            foreach (Candidate can in candi)
+            {
+                Console.WriteLine(can.id + ". " + can.name);
+            }
             Console.WriteLine("---------------");
             Console.Write(">");
             _stopFlag.WaitOne();
