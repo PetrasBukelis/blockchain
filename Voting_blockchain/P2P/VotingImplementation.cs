@@ -24,6 +24,7 @@ namespace P2P
                 bc.AddBlock(block);
 
             Console.WriteLine("-----RESULTS-----");
+
             foreach (Candidate can in candi)
             {
                 if (block.GetData() == can.id) can.AddVote();

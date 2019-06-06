@@ -10,3 +10,10 @@ E:\Programavimas\blockchain\Voting_blockchain\P2P\bin\Debug\P2P.pdb
 E:\Programavimas\blockchain\Voting_blockchain\P2P\obj\Debug\P2P.csprojResolveAssemblyReference.cache
 E:\Programavimas\blockchain\Voting_blockchain\P2P\obj\Debug\P2P.exe
 E:\Programavimas\blockchain\Voting_blockchain\P2P\obj\Debug\P2P.pdb
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain\P2P\bin\Debug\P2P.exe.config
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain\P2P\bin\Debug\P2P.exe
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain\P2P\bin\Debug\P2P.pdb
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain\P2P\obj\Debug\P2P.csprojAssemblyReference.cache
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain\P2P\obj\Debug\P2P.csproj.CoreCompileInputs.cache
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain\P2P\obj\Debug\P2P.exe
+C:\Users\bukel\Documents\GitHub\Blockchain\blockchain\Voting_blockchain\P2P\obj\Debug\P2P.pdb
