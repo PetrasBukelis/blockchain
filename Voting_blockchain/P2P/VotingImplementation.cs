@@ -20,6 +20,7 @@ namespace P2P
 
         public void Vote(Block block)
         {
+            Console.Clear();
             if(bc.IsValid())
                 bc.AddBlock(block);
 
@@ -29,7 +30,9 @@ namespace P2P
             {
                 if (block.GetData() == can.id) can.AddVote();
             }
-            orderedCandi = candi.OrderByDescending(order => order.votes).ToList();
+            orderedCandi = new List<Candidate>();
+            orderedCandi = candi.OrderByDescending(order => Convert.ToInt32(order.votes)).ToList();
+
             foreach (Candidate can in orderedCandi)
             {
                 Console.WriteLine(can.name + " " + can.votes);
